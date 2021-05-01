@@ -1,0 +1,81 @@
+body{
+    background-color: rgb(226, 226, 226);
+}
+
+.list{
+    position: relative;
+    background-color: rgb(77, 77, 77);
+    left: -7px;
+    top: -7px;
+    width: 2020px;
+    height: 370px;
+    margin-top: 30px;
+}
+.A000{
+    position: relative;
+    font-size: 2rem;
+    top: 30px;
+    left: 100px;
+    color: white;
+    background-color: black;
+}
+.ad {
+    position: relative;
+    width: 300px;
+    height: 300px; 
+    border-radius: 100%;
+    overflow: hidden;
+    top: 30px;
+    left: 60px;
+    float: left;
+}
+.adprofile{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.track{
+    position: relative;
+    background-color: rgb(255, 255, 255);
+    left: -7px;
+    top: -7px;
+    width: 2020px;
+    height: 370px;
+}
+.A001{
+    position: relative;
+    font-size: 2rem;
+    top: 10px;
+    left: 50px;
+    color: black;
+}
+.rain {
+    position: relative;
+    width: 200px;
+    height: 200px; 
+    border-radius: 20%;
+    overflow: hidden;
+    top: 30px;
+    left: 60px;
+    float: left;
+    margin-top: 30px;
+}
+.raim{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.M000{
+    position: relative;
+    left: 80px;
+    top: 150px;
+}
+.musicname{
+    position: relative;
+    font-size: 1.2rem;
+    left: 80px;
+    top: 20px;
+}
+.so{
+    font-size: 1rem;
+}
